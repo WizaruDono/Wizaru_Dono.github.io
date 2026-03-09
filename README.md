@@ -72,34 +72,17 @@
 ## Анимации
 #### Поединок самураев (Самурай Чамплу)
 
-[![Видео](https://www.youtube.com/watch?v=7CTbvyl3OPM/0.jpg)](https://www.youtube.com/watch?v=7CTbvyl3OPM)
+[![Видео](https://img.youtube.com/vi/7CTbvyl3OPM/0.jpg)](https://www.youtube.com/watch?v=7CTbvyl3OPM)
 *Нажмите на изображение, чтобы посмотреть демонстрацию работы.*
 
 #### Как облегчить Сизифов труд:
 
-[![Видео](https://www.youtube.com/shorts/Tmp67qj_Z_s/0.jpg)](https://www.youtube.com/shorts/Tmp67qj_Z_s)
+[![Видео](https://img.youtube.com/vi/Tmp67qj_Z_s/0.jpg)](https://www.youtube.com/shorts/Tmp67qj_Z_s)
 *Нажмите на изображение, чтобы посмотреть демонстрацию работы.*
-
-1
-
-<img src="https://www.youtube.com/shorts/Tmp67qj_Z_s" width="600" alt="Спидометр">
-
-2
-
-https://www.youtube.com/shorts/Tmp67qj_Z_s/0.jpg
-
-3
-
-[![Видео](https://www.youtube.com/shorts/Tmp67qj_Z_s)](https://www.youtube.com/shorts/Tmp67qj_Z_s)
-
-4
-
-[![Видео](https://www.youtube.com/shorts/Tmp67qj_Z_s/1.jpg)](https://www.youtube.com/shorts/Tmp67qj_Z_s)
-
 
 #### Заставка Warcraft III
 
-[![Видео](https://www.youtube.com/watch?v=hVzrgjlUtfU/0.jpg)](https://www.youtube.com/watch?v=hVzrgjlUtfU)
+[![Видео](https://img.youtube.com/vi/hVzrgjlUtfU/0.jpg)](https://www.youtube.com/watch?v=hVzrgjlUtfU)
 *Нажмите на изображение, чтобы посмотреть демонстрацию работы.*
 
 
