@@ -10,12 +10,12 @@
 ## Мои работы: 
 Что бы показать?
 
-<img src="images/What_the_.png" width="350" alt="Что бы показать?">
+<img src="images/What_the_.png" width="300" alt="Что бы показать?">
 
 ### UI
 Наброски интерфейса к игре:
 
-<img src="images/RPG.png" width="600" alt="интерфейс">
+<img src="images/RPG.png" width="800" alt="интерфейс">
 
 Реализация в Godot:
 
@@ -29,7 +29,7 @@
 
 
 ### Стикеры
-<img src="images/Выгу Выгу Выгу.png" width="150" alt=""><img src="images/ByuaSZ.png" width="150" alt="">
+<img src="images/Выгу Выгу Выгу.png" width="150" alt="">        <img src="images/ByuaSZ.png" width="150" alt="">
 
 ## Все мы с чего-то начинали...
 Раннее творчество
