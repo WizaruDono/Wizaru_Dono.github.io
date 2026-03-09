@@ -72,40 +72,47 @@
 
 #### Тяночки
 Чертовка
+
 <img src="images/Чертовка.png" width="800" alt="1">
 
 
 Монашка
+
 <img src="images/Nun.png" width="500" alt="1">
 
 
 Харли Квинн
+
 <img src="images/Харли.png" width="500" alt="1">
 
 
 Призрак-тян
+
 <img src="images/Призрак-тян.png" width="300" alt="1">  <img src="images/Призрак-тян 2bit (оф4) (2).png" width="300" alt="2">  <img src="images/Призрак-тян 2bit (оф4).png" width="300" alt="3">
 
 
 Мегумин
+
 <img src="images/Мегумин.png" width="300" alt="1">  <img src="images/перерисовка 3.jpg" width="300" alt="2">
 
 
 Юнити (в качестве рефа)
+
 <img src="images/go back.png" width="400" alt="1">
 
 
 Волшебница
+
 <img src="images/перерисовка 2.jpg" width="300" alt="1">
 
 
 Азула (в качестве рефа)
+
 <img src="images/Азула.jpg" width="300" alt="1">
 
 
-
-
 В поисках стиля
+
 <img src="images/my_style.jpg" width="300" alt="1">
 
 
@@ -127,6 +134,7 @@
 
 
 Лич
+
 <img src="images/Анимация лича.gif" width="550" alt="Лич">
 
 
