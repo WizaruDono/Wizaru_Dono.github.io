@@ -45,7 +45,7 @@
 
 #### Реализация в Godot:
 
-[![Видео](https://img.youtube.com/vi/ID_ВАШЕГО_ВИДЕО/0.jpg)](https://www.youtube.com/watch?v=ID_ВАШЕГО_ВИДЕО)
+[![Видео](https://img.youtube.com/vi/ID_ВАШЕГО_ВИДЕО/maxresdefault.jpg)](https://www.youtube.com/watch?v=ID_ВАШЕГО_ВИДЕО)
 
 *Нажмите на изображение, чтобы посмотреть демонстрацию работы.*
 
@@ -65,7 +65,7 @@
 
 #### Реализация в Godot:
 
-[![Видео](https://img.youtube.com/vi/ID_ВАШЕГО_ВИДЕО/0.jpg)](https://www.youtube.com/watch?v=ID_ВАШЕГО_ВИДЕО)
+[![Видео](https://img.youtube.com/vi/ID_ВАШЕГО_ВИДЕО/maxresdefault.jpg)](https://www.youtube.com/watch?v=ID_ВАШЕГО_ВИДЕО)
 
 *Нажмите на изображение, чтобы посмотреть демонстрацию работы.*
 
@@ -86,7 +86,7 @@
 
 #### Заставка Warcraft III
 
-[![Видео](https://img.youtube.com/vi/hVzrgjlUtfU/0.jpg)](https://www.youtube.com/watch?v=hVzrgjlUtfU)
+[![Видео](https://img.youtube.com/vi/hVzrgjlUtfU/maxresdefault.jpg)](https://www.youtube.com/watch?v=hVzrgjlUtfU)
 
 *Нажмите на изображение, чтобы посмотреть демонстрацию работы.*
 
@@ -94,28 +94,28 @@
 
 ## Арты
 #### Паладин/ша:
-<img src="images/Ангел Паладин.png" width="300" alt="пал">  <img src="images/Ангел Паладинша.png" width="300" alt="пал">
+<img src="images/Ангел Паладин.png" width="300" alt="пал"> ㅤ<img src="images/Ангел Паладинша.png" width="300" alt="пал">
 
 
 #### Тяночки
 Чертовка
 
-<img src="images/Чертовка.png" width="800" alt="1">
+<img src="images/Чертовка.png" width="650" alt="1">
 
 
 Монашка
 
-<img src="images/Nun.png" width="500" alt="1">
+<img src="images/Nun.png" width="400" alt="1">
 
 
 Харли Квинн
 
-<img src="images/Харли.png" width="500" alt="1">
+<img src="images/Харли.png" width="400" alt="1">
 
 
 Призрак-тян
 
-<img src="images/Призрак-тян.png" width="200" alt="1"> ㅤ<img src="images/Призрак-тян 2bit (оф4) (2).png" width="200" alt="2"> ㅤ<img src="images/Призрак-тян 2bit (оф4).png" width="200" alt="3">
+<img src="images/Призрак-тян.png" width="225" alt="1"> ㅤ<img src="images/Призрак-тян 2bit (оф4) (2).png" width="225" alt="2"> ㅤ<img src="images/Призрак-тян 2bit (оф4).png" width="225" alt="3">
 
 
 Мегумин
@@ -125,7 +125,7 @@
 
 Юнити (в качестве рефа)
 
-<img src="images/go back.png" width="400" alt="1">
+<img src="images/go back.png" width="300" alt="1">
 
 
 Волшебница
@@ -140,7 +140,7 @@
 
 В поисках стиля
 
-<img src="images/my_style.jpg" width="150" alt="1">
+<img src="images/my_style.jpg" width="200" alt="1">
 
 
 
@@ -153,14 +153,18 @@
 
 
 #### Оптические иллюзии
+Игра: найди корову справа
+
 <img src="images/Глюки.png" width="250" alt=""> ㅤ<img src="images/Корова.jpg" width="250" alt="">
+
+Если нашёл, у тебя шиза (=
 
 
 
 ## Все мы с чего-то начинали...
 #### Раннее творчество
-<img src="images/Nya-Man.jpg" width="350" alt="">
+<img src="images/Nya-Man.jpg" width="250" alt="">
 
-<img src="images/Странник.png" width="350" alt=""> ㅤ<img src="images/щёлк.jpg" width="350" alt="">
+<img src="images/Странник.png" width="250" alt=""> ㅤ<img src="images/щёлк.jpg" width="250" alt="">
 
-<img src="images/Анимация лича.gif" width="550" alt="Лич">
+<img src="images/Анимация лича.gif" width="350" alt="Лич">
