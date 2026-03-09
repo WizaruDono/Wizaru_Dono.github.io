@@ -163,7 +163,7 @@
 
 ## Все мы с чего-то начинали...
 #### Раннее творчество
-<img src="images/Nya-Man.jpg" width="250" alt=""> ㅤ<img src="images/Анимация лича.gif" width="250" alt="Лич">
+<img src="images/Nya-Man.jpg" width="250" alt=""> ㅤ<img src="images/Анимация лича.gif" width="350" alt="Лич">
 
 <img src="images/Странник.png" width="250" alt=""> ㅤ<img src="images/щёлк.jpg" width="250" alt="">
 
