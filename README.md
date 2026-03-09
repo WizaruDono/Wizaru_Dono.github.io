@@ -46,6 +46,7 @@
 #### Реализация в Godot:
 
 [![Видео](https://img.youtube.com/vi/ID_ВАШЕГО_ВИДЕО/0.jpg)](https://www.youtube.com/watch?v=ID_ВАШЕГО_ВИДЕО)
+
 *Нажмите на изображение, чтобы посмотреть демонстрацию работы.*
 
 
@@ -65,6 +66,7 @@
 #### Реализация в Godot:
 
 [![Видео](https://img.youtube.com/vi/ID_ВАШЕГО_ВИДЕО/0.jpg)](https://www.youtube.com/watch?v=ID_ВАШЕГО_ВИДЕО)
+
 *Нажмите на изображение, чтобы посмотреть демонстрацию работы.*
 
 
@@ -73,16 +75,19 @@
 #### Поединок самураев (Самурай Чамплу)
 
 [![Видео](https://img.youtube.com/vi/7CTbvyl3OPM/0.jpg)](https://www.youtube.com/watch?v=7CTbvyl3OPM)
+
 *Нажмите на изображение, чтобы посмотреть демонстрацию работы.*
 
 #### Как облегчить Сизифов труд:
 
 [![Видео](https://img.youtube.com/vi/Tmp67qj_Z_s/0.jpg)](https://www.youtube.com/shorts/Tmp67qj_Z_s)
+
 *Нажмите на изображение, чтобы посмотреть демонстрацию работы.*
 
 #### Заставка Warcraft III
 
 [![Видео](https://img.youtube.com/vi/hVzrgjlUtfU/0.jpg)](https://www.youtube.com/watch?v=hVzrgjlUtfU)
+
 *Нажмите на изображение, чтобы посмотреть демонстрацию работы.*
 
 
@@ -149,14 +154,6 @@
 
 #### Оптические иллюзии
 <img src="images/Глюки.png" width="250" alt=""> ㅤ<img src="images/Корова.jpg" width="250" alt="">
-
-
-
-
-
-
-
-
 
 
 
