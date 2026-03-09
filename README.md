@@ -1,14 +1,16 @@
-Wizaru_Dono 
+
+### NickName: Wizaru_Dono
+#### Name: Мальцев Дмитрий
 
 #### Роли: 
-1. Геймдизайнер
-2. Программист 
-3. Художник
+1. Геймдизайнер: занимаюсь всем от анализа рынка и создания концепта до маркетинга;
+2. Программист: делаю игры на Godot;
+3. Художник: рисую и анимирую Pixel_Art.
 
 #### Стек:
 1. 
-2. Делаю игры на Godot
-3. Рисую и анимирую Pixel_Art
+2. 
+3. 
 
 
 ## Мои работы: 
@@ -17,8 +19,7 @@ Wizaru_Dono
 <img src="images/What_the_.png" width="350" alt="Что бы показать?">
 
 #### Паладин/ша:
-<img src="images/Ангел Паладин.png" width="300" alt="пал">
-<img src="images/Ангел Паладинша.png" width="300" alt="пал">
+<img src="images/Ангел Паладин.png" width="300" alt="пал">  <img src="images/Ангел Паладинша.png" width="300" alt="пал">
 
 ### UI
 Наброски интерфейса к игре:
@@ -27,7 +28,7 @@ Wizaru_Dono
 
 Реализация в Godot:
 
-[![Dидео](https://img.youtube.com/vi/ID_ВАШЕГО_ВИДЕО/0.jpg)](https://www.youtube.com/watch?v=ID_ВАШЕГО_ВИДЕО)
+[![Видео](https://img.youtube.com/vi/ID_ВАШЕГО_ВИДЕО/0.jpg)](https://www.youtube.com/watch?v=ID_ВАШЕГО_ВИДЕО)
 *Нажмите на изображение, чтобы посмотреть демонстрацию работы.*
 
 
