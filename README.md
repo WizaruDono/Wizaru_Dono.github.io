@@ -12,8 +12,7 @@ Wizaru_Dono
 
 
 #### Мои работы: 
-<img src="‪images\What the.png" width="600" alt="Что бы показать?">
-
-s
+<img src="images/What_the_.png" width="600" alt="Что бы показать?">
+![Текст если не прогрузилось](images/What_the_.png)
 
 #### Все мы с чего-то начинали...
