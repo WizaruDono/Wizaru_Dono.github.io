@@ -20,12 +20,14 @@
 
 
 
-## Мои работы: 
+# Мои работы: 
 #### Что бы показать?
 
 <img src="images/What_the_.png" width="300" alt="Что бы показать?">
 
 
+
+## Игры
 ### Локации RPG_1 (без полировки)
 #### Город
 
@@ -65,7 +67,28 @@
 [![Видео](https://img.youtube.com/vi/ID_ВАШЕГО_ВИДЕО/0.jpg)](https://www.youtube.com/watch?v=ID_ВАШЕГО_ВИДЕО)
 *Нажмите на изображение, чтобы посмотреть демонстрацию работы.*
 
-### Арты
+
+
+## Анимации
+#### Поединок самураев (Самурай Чамплу)
+
+[![Видео](https://www.youtube.com/watch?v=7CTbvyl3OPM/0.jpg)](https://www.youtube.com/watch?v=7CTbvyl3OPM)
+*Нажмите на изображение, чтобы посмотреть демонстрацию работы.*
+
+#### Как облегчить Сизифов труд:
+
+[![Видео](https://img.youtube.com/vi/ID_ВАШЕГО_ВИДЕО/0.jpg)](https://www.youtube.com/watch?v=ID_ВАШЕГО_ВИДЕО)
+*Нажмите на изображение, чтобы посмотреть демонстрацию работы.*
+
+
+#### Заставка Warcraft III
+
+[![Видео](https://www.youtube.com/watch?v=hVzrgjlUtfU/0.jpg)](https://www.youtube.com/watch?v=hVzrgjlUtfU)
+*Нажмите на изображение, чтобы посмотреть демонстрацию работы.*
+
+
+
+## Арты
 #### Паладин/ша:
 <img src="images/Ангел Паладин.png" width="300" alt="пал">  <img src="images/Ангел Паладинша.png" width="300" alt="пал">
 
@@ -88,12 +111,12 @@
 
 Призрак-тян
 
-<img src="images/Призрак-тян.png" width="300" alt="1">  <img src="images/Призрак-тян 2bit (оф4) (2).png" width="300" alt="2">  <img src="images/Призрак-тян 2bit (оф4).png" width="300" alt="3">
+<img src="images/Призрак-тян.png" width="200" alt="1"> ㅤ<img src="images/Призрак-тян 2bit (оф4) (2).png" width="200" alt="2"> ㅤ<img src="images/Призрак-тян 2bit (оф4).png" width="200" alt="3">
 
 
 Мегумин
 
-<img src="images/Мегумин.png" width="300" alt="1">  <img src="images/перерисовка 3.jpg" width="300" alt="2">
+<img src="images/Мегумин.png" width="300" alt="1"> ㅤ<img src="images/перерисовка 3.jpg" width="300" alt="2">
 
 
 Юнити (в качестве рефа)
@@ -113,7 +136,7 @@
 
 В поисках стиля
 
-<img src="images/my_style.jpg" width="300" alt="1">
+<img src="images/my_style.jpg" width="150" alt="1">
 
 
 
@@ -126,23 +149,22 @@
 
 
 #### Оптические иллюзии
-<img src="images/Глюки.png" width="250" alt=""> ㅤ<img src="images/Корова.png" width="250" alt="">
+<img src="images/Глюки.png" width="250" alt=""> ㅤ<img src="images/Корова.jpg" width="250" alt="">
 
 
 
-### Анимации
 
 
-Лич
 
-<img src="images/Анимация лича.gif" width="550" alt="Лич">
+
 
 
 
 
 ## Все мы с чего-то начинали...
 #### Раннее творчество
+<img src="images/Nya-Man.jpg" width="350" alt="">
 
-<img src="images/Странник.png" width="350" alt=""> ㅤ<img src="images/Nya-Man.jpg" width="350" alt="">
-<img src="images/щёлк.jpg" width="350" alt="">
+<img src="images/Странник.png" width="350" alt=""> ㅤ<img src="images/щёлк.jpg" width="350" alt="">
 
+<img src="images/Анимация лича.gif" width="550" alt="Лич">
