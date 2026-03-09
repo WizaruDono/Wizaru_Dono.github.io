@@ -2,7 +2,7 @@
 <img src="images/Волшебник.png" width="150" alt="Волшебник">
 
 ### NickName: Wizaru_Dono
-#### Name: Мальцев Дмитрий
+#### Name: Дмитрий Мальцев
 
 #### Роли: 
 1. Геймдизайнер: занимаюсь всем - от анализа рынка и создания концептов до маркетинга;
@@ -18,6 +18,7 @@
 - [LOWREZJAM 2025](https://itch.io/jam/lowrezjam-2025) и [проект](https://superiorita.itch.io/undo-it) в нём.
 - [Открывающие окно игры для GameBoy](https://t.me/House_Pixel/25586/57479) | [запасная ссылка](https://t.me/wizardupixel/31) и [проект](https://www.youtube.com/watch?v=hVzrgjlUtfU) в нём.
 
+А также создание простеньких игр в соло в учебных целях. В т.ч. для обучения нейронных сетей.
 
 
 # Мои работы: 
@@ -60,12 +61,11 @@
 
 <img src="images/Спидометр.jpg" width="600" alt="Спидометр">
 
-Также для данной игры была нарисована карта, модели машин.
 
 
 #### Реализация в Godot:
 
-[![Видео](https://img.youtube.com/vi/ID_ВАШЕГО_ВИДЕО/maxresdefault.jpg)](https://www.youtube.com/watch?v=ID_ВАШЕГО_ВИДЕО)
+[![Видео](https://img.youtube.com/vi/tWtL32eGhqo/maxresdefault.jpg)](https://www.youtube.com/watch?v=tWtL32eGhqo)
 
 *Нажмите на изображение или [ссылку](), чтобы посмотреть демонстрацию работы.*
 
