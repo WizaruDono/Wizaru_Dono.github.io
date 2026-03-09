@@ -47,7 +47,7 @@
 
 [![Видео](https://img.youtube.com/vi/ID_ВАШЕГО_ВИДЕО/maxresdefault.jpg)](https://www.youtube.com/watch?v=ID_ВАШЕГО_ВИДЕО)
 
-*Нажмите на изображение, чтобы посмотреть демонстрацию работы.*
+*Нажмите на изображение или [ссылку](), чтобы посмотреть демонстрацию работы.*
 
 
 ### Гонки
@@ -67,7 +67,7 @@
 
 [![Видео](https://img.youtube.com/vi/ID_ВАШЕГО_ВИДЕО/maxresdefault.jpg)](https://www.youtube.com/watch?v=ID_ВАШЕГО_ВИДЕО)
 
-*Нажмите на изображение, чтобы посмотреть демонстрацию работы.*
+*Нажмите на изображение или [ссылку](), чтобы посмотреть демонстрацию работы.*
 
 
 
@@ -76,19 +76,19 @@
 
 [![Видео](https://img.youtube.com/vi/7CTbvyl3OPM/maxresdefault.jpg)](https://www.youtube.com/watch?v=7CTbvyl3OPM)
 
-*Нажмите на изображение, чтобы посмотреть демонстрацию работы.*
+*Нажмите на изображение или [ссылку](https://www.youtube.com/watch?v=7CTbvyl3OPM), чтобы посмотреть демонстрацию работы.*
 
 #### Как облегчить Сизифов труд:
 
 [![Видео](https://img.youtube.com/vi/Tmp67qj_Z_s/maxresdefault.jpg)](https://www.youtube.com/shorts/Tmp67qj_Z_s)
 
-*Нажмите на изображение, чтобы посмотреть демонстрацию работы.*
+*Нажмите на изображение или [ссылку](https://www.youtube.com/shorts/Tmp67qj_Z_s), чтобы посмотреть демонстрацию работы.*
 
 #### Заставка Warcraft III
 
 [![Видео](https://img.youtube.com/vi/hVzrgjlUtfU/hqdefault.jpg)](https://www.youtube.com/watch?v=hVzrgjlUtfU)
 
-*Нажмите на изображение, чтобы посмотреть демонстрацию работы.*
+*Нажмите на изображение или [ссылку](https://www.youtube.com/watch?v=hVzrgjlUtfU), чтобы посмотреть демонстрацию работы.*
 
 
 
