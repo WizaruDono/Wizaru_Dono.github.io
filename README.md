@@ -10,7 +10,7 @@
 3. Художник: рисую и анимирую Pixel_Art.
 
 #### Соцсети
-1. [Telegram](t.me/wizardupixel)
+1. [Telegram](https://t.me/wizardupixel)
 2. [YouTube](https://www.youtube.com/@wizaru_dono)
 
 #### Опыт
