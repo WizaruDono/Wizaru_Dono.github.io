@@ -77,8 +77,24 @@
 
 #### Как облегчить Сизифов труд:
 
-[![Видео](https://img.youtube.com/vi/ID_ВАШЕГО_ВИДЕО/0.jpg)](https://www.youtube.com/watch?v=ID_ВАШЕГО_ВИДЕО)
+[![Видео](https://www.youtube.com/shorts/Tmp67qj_Z_s/0.jpg)](https://www.youtube.com/shorts/Tmp67qj_Z_s)
 *Нажмите на изображение, чтобы посмотреть демонстрацию работы.*
+
+1
+
+<img src="https://www.youtube.com/shorts/Tmp67qj_Z_s/0.jpg" width="600" alt="Спидометр">
+
+2
+
+https://www.youtube.com/shorts/Tmp67qj_Z_s/0.jpg
+
+3
+
+[![Видео](https://www.youtube.com/shorts/Tmp67qj_Z_s)](https://www.youtube.com/shorts/Tmp67qj_Z_s)
+
+4
+
+[![Видео](https://www.youtube.com/shorts/Tmp67qj_Z_s/1.jpg))](https://www.youtube.com/shorts/Tmp67qj_Z_s)
 
 
 #### Заставка Warcraft III
