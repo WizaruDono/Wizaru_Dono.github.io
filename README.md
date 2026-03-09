@@ -82,7 +82,7 @@
 
 1
 
-<img src="https://www.youtube.com/shorts/Tmp67qj_Z_s/0.jpg" width="600" alt="Спидометр">
+<img src="https://www.youtube.com/shorts/Tmp67qj_Z_s" width="600" alt="Спидометр">
 
 2
 
@@ -94,7 +94,7 @@ https://www.youtube.com/shorts/Tmp67qj_Z_s/0.jpg
 
 4
 
-[![Видео](https://www.youtube.com/shorts/Tmp67qj_Z_s/1.jpg))](https://www.youtube.com/shorts/Tmp67qj_Z_s)
+[![Видео](https://www.youtube.com/shorts/Tmp67qj_Z_s/1.jpg)](https://www.youtube.com/shorts/Tmp67qj_Z_s)
 
 
 #### Заставка Warcraft III
