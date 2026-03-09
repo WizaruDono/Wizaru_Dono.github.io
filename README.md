@@ -10,13 +10,13 @@
 3. Художник: рисую и анимирую Pixel_Art.
 
 #### Соцсети
-1. [Telega](t.me/wizardupixel)
+1. [Telegram](t.me/wizardupixel)
 2. [YouTube](https://www.youtube.com/@wizaru_dono)
 
 #### Опыт
 Участие (коллаборации) в джемах по созданию игр, артов и анимаций:
 - [LOWREZJAM 2025](https://itch.io/jam/lowrezjam-2025) и [проект](https://superiorita.itch.io/undo-it) в нём.
-- [Открывающие окно игры для GameBoy](https://t.me/House_Pixel/25586/57479) | [запасная ссылка](https://t.me/wizardupixel/31)
+- [Открывающие окно игры для GameBoy](https://t.me/House_Pixel/25586/57479) | [запасная ссылка](https://t.me/wizardupixel/31) и [проект](https://www.youtube.com/watch?v=hVzrgjlUtfU) в нём.
 
 
 
@@ -74,13 +74,13 @@
 ## Анимации
 #### Поединок самураев (Самурай Чамплу)
 
-[![Видео](https://img.youtube.com/vi/7CTbvyl3OPM/0.jpg)](https://www.youtube.com/watch?v=7CTbvyl3OPM)
+[![Видео](https://img.youtube.com/vi/7CTbvyl3OPM/maxresdefault.jpg)](https://www.youtube.com/watch?v=7CTbvyl3OPM)
 
 *Нажмите на изображение, чтобы посмотреть демонстрацию работы.*
 
 #### Как облегчить Сизифов труд:
 
-[![Видео](https://img.youtube.com/vi/Tmp67qj_Z_s/0.jpg)](https://www.youtube.com/shorts/Tmp67qj_Z_s)
+[![Видео](https://img.youtube.com/vi/Tmp67qj_Z_s/maxresdefault.jpg)](https://www.youtube.com/shorts/Tmp67qj_Z_s)
 
 *Нажмите на изображение, чтобы посмотреть демонстрацию работы.*
 
