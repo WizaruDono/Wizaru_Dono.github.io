@@ -46,28 +46,27 @@
 
 #### Реализация в Godot:
 
-[![Видео](https://img.youtube.com/vi/ID_ВАШЕГО_ВИДЕО/maxresdefault.jpg)](https://www.youtube.com/watch?v=ID_ВАШЕГО_ВИДЕО)
+[![Видео](https://img.youtube.com/vi/cwA1eseSkKk/maxresdefault.jpg)](https://www.youtube.com/watch?v=cwA1eseSkKk)
 
-*Нажмите на изображение или [ссылку](), чтобы посмотреть демонстрацию работы.*
+*Нажмите на изображение или [ссылку](https://youtu.be/cwA1eseSkKk), чтобы посмотреть демонстрацию работы.*
 
 
 ### Гонки
-#### Заставка
-
-<img src="images/заставка_гонки.jpg" width="800" alt="заставка_гонки">
-
-
 #### Спидометр
 
 <img src="images/Спидометр.jpg" width="600" alt="Спидометр">
 
+
+#### Заставка
+
+<img src="images/заставка_гонки.jpg" width="800" alt="заставка_гонки">
 
 
 #### Реализация в Godot:
 
 [![Видео](https://img.youtube.com/vi/tWtL32eGhqo/maxresdefault.jpg)](https://www.youtube.com/watch?v=tWtL32eGhqo)
 
-*Нажмите на изображение или [ссылку](), чтобы посмотреть демонстрацию работы.*
+*Нажмите на изображение или [ссылку](https://youtu.be/tWtL32eGhqo), чтобы посмотреть демонстрацию работы.*
 
 
 
