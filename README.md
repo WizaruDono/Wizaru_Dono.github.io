@@ -12,7 +12,19 @@ Wizaru_Dono
 
 
 #### Мои работы: 
-<img src="images/What_the_.png" width="600" alt="Что бы показать?">
-![Текст если не прогрузилось](images/What_the_.png)
+Что бы показать?
+<img src="images/What_the_.png" width="350" alt="Что бы показать?">
+
+###### Паладин/ша:
+<img src="images/Ангел Паладин.png" width="300" alt="пал">  <img src="images/Ангел Паладинша.png" width="300" alt="пал">
+
+##### UI
+Наброски интерфейса к игре: 
+<img src="images/RPG.png" width="600" alt="интерфейс">
+
+Реализация в Godot:
+[![Dидео](https://img.youtube.com/vi/ID_ВАШЕГО_ВИДЕО/0.jpg)](https://www.youtube.com/watch?v=ID_ВАШЕГО_ВИДЕО)
+*Нажмите на изображение, чтобы посмотреть демонстрацию работы.*
+
 
 #### Все мы с чего-то начинали...
