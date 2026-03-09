@@ -86,7 +86,7 @@
 
 #### Заставка Warcraft III
 
-[![Видео](https://img.youtube.com/vi/hVzrgjlUtfU/maxresdefault.jpg)](https://www.youtube.com/watch?v=hVzrgjlUtfU)
+[![Видео](https://img.youtube.com/vi/hVzrgjlUtfU/hqdefault.jpg)](https://www.youtube.com/watch?v=hVzrgjlUtfU)
 
 *Нажмите на изображение, чтобы посмотреть демонстрацию работы.*
 
@@ -163,7 +163,7 @@
 
 ## Все мы с чего-то начинали...
 #### Раннее творчество
-<img src="images/Nya-Man.jpg" width="250" alt="">
+<img src="images/Nya-Man.jpg" width="150" alt="">
 
 <img src="images/Странник.png" width="250" alt=""> ㅤ<img src="images/щёлк.jpg" width="250" alt="">
 
