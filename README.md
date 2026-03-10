@@ -149,13 +149,13 @@
 
 
 #### Стикеры
-<img src="images/Выгу Выгу Выгу.png" height="150" alt="">    ㅤ<img src="images/ByuaSZ.png" height="150" alt="">
+<img src="images/Выгу Выгу Выгу.png" width="150" alt="">    ㅤ<img src="images/ByuaSZ.png" width="150" alt="">
 
 
 #### Оптические иллюзии
 Игра: найдите корову справа
 
-<img src="images/Глюки.png" width="250" alt=""> ㅤ<img src="images/Корова.jpg" width="250" alt="">
+<img src="images/Глюки.png" height="250" alt=""> ㅤ<img src="images/Корова.jpg" height="250" alt="">
 
 Если нашли, у вас шиза (=
 
