@@ -19,7 +19,7 @@
 - [LOWREZJAM 2025](https://itch.io/jam/lowrezjam-2025) и [проект](https://superiorita.itch.io/undo-it) в нём.
 - [Открывающие окно игры для GameBoy](https://t.me/House_Pixel/25586/57479) | [запасная ссылка](https://t.me/wizardupixel/31) и [проект](https://www.youtube.com/watch?v=hVzrgjlUtfU) в нём.
 
-А также создание простеньких игр в учебных целях. В т.ч. для обучения нейронных сетей.
+А также создание простеньких игр в учебных целях (в т.ч. для обучения нейронных сетей).
 
 
 # Мои работы: 
@@ -120,27 +120,27 @@
 
 Мегумин
 
-<img src="images/Мегумин.png" width="300" alt="1"> ㅤ<img src="images/перерисовка 3.jpg" width="300" alt="2">
+<img src="images/Мегумин.png" width="300" alt="Мегумин 1"> ㅤ<img src="images/перерисовка 3.jpg" width="300" alt="Мегумин 2">
 
 
 Юнити (в качестве рефа)
 
-<img src="images/go back.png" width="300" alt="1">
+<img src="images/go back.png" width="300" alt="Юнити">
 
 
 Волшебница
 
-<img src="images/перерисовка 2.jpg" width="300" alt="1">
+<img src="images/перерисовка 2.jpg" width="300" alt="Волшебница">
 
 
 Азула (в качестве рефа)
 
-<img src="images/Азула.jpg" width="300" alt="1">
+<img src="images/Азула.jpg" width="300" alt="Азула">
 
 
 В поисках стиля
 
-<img src="images/my_style.jpg" width="200" alt="1">
+<img src="images/my_style.jpg" width="200" alt="1"> ㅤ<img src="images/перерисовка 1.jpg" width="200" alt="2">
 
 
 
@@ -153,11 +153,11 @@
 
 
 #### Оптические иллюзии
-Игра: найди корову справа
+Игра: найдите корову справа
 
 <img src="images/Глюки.png" width="250" alt=""> ㅤ<img src="images/Корова.jpg" width="250" alt="">
 
-Если нашёл, у тебя шиза (=
+Если нашли, у вас шиза (=
 
 
 
@@ -168,3 +168,5 @@
 <img src="images/Странник.png" width="250" alt=""> ㅤ<img src="images/щёлк.jpg" width="250" alt="">
 
 <img src="images/Анимация лича.gif" width="350" alt="Лич">
+
+<img src="images/дуо.jpg" width="350" alt="дуо">
