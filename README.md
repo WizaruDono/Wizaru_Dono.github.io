@@ -47,9 +47,9 @@
 
 #### Реализация в Godot:
 
-[![Видео](https://img.youtube.com/vi/cwA1eseSkKk/maxresdefault.jpg)](https://www.youtube.com/watch?v=cwA1eseSkKk)
+[![Видео](https://img.youtube.com/vi/Mw53esq9j4Q/maxresdefault.jpg)](https://www.youtube.com/watch?v=Mw53esq9j4Q)
 
-*Нажмите на изображение или [ссылку](https://youtu.be/cwA1eseSkKk), чтобы посмотреть демонстрацию работы.*
+*Нажмите на изображение или [ссылку](https://youtu.be/Mw53esq9j4Q), чтобы посмотреть демонстрацию работы.*
 
 
 ### Гонки
