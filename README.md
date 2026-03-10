@@ -149,7 +149,7 @@
 
 
 #### Стикеры
-<img src="images/Выгу Выгу Выгу.png" width="150" alt="">    ㅤ<img src="images/ByuaSZ.png" width="150" alt="">
+<img src="images/Выгу Выгу Выгу.png" height="150" alt="">    ㅤ<img src="images/ByuaSZ.png" height="150" alt="">
 
 
 #### Оптические иллюзии
