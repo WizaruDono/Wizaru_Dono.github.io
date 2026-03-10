@@ -19,7 +19,7 @@
 - [LOWREZJAM 2025](https://itch.io/jam/lowrezjam-2025) и [проект](https://superiorita.itch.io/undo-it) в нём.
 - [Открывающие окно игры для GameBoy](https://t.me/House_Pixel/25586/57479) | [запасная ссылка](https://t.me/wizardupixel/31) и [проект](https://www.youtube.com/watch?v=hVzrgjlUtfU) в нём.
 
-А также создание простеньких игр в соло в учебных целях. В т.ч. для обучения нейронных сетей.
+А также создание простеньких игр в учебных целях. В т.ч. для обучения нейронных сетей.
 
 
 # Мои работы: 
